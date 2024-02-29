@@ -6,10 +6,10 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "Bot",
-    "PREFIX": "%",
+    "BOTNAME": "",
+    "PREFIX": "",
     "ADMINBOT": [
-        "100047874375055"
+        ""
     ],
     "FCAOption": {
         "forceLogin": true,
