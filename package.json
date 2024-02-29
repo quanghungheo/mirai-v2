@@ -1,0 +1,16 @@
+{
+    "name": "Bot Messenger",
+    "version": "1.0.0",
+    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+    "author": "DC-Nam",
+    "dependencies": {
+        "adm-zip": "^0.5.10",
+        "axios": "^1.4.0",
+        "facebook-chat-api": "github:namvns/facebook-chat-api",
+        "moment": "^2.29.4",
+        "moment-timezone": "^0.5.43",
+        "sequelize": "^6.31.1",
+        "sqlite3": "^5.1.6",
+        "string-similarity": "^4.0.4"
+    }
+}
